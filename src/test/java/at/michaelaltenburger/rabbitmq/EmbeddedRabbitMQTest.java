@@ -1,4 +1,4 @@
-package at.riag.scanpay;
+package at.michaelaltenburger.rabbitmq;
 
 import io.arivera.oss.embedded.rabbitmq.EmbeddedRabbitMq;
 import io.arivera.oss.embedded.rabbitmq.EmbeddedRabbitMqConfig;

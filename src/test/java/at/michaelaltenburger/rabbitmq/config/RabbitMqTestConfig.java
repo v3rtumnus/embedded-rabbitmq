@@ -1,4 +1,4 @@
-package at.riag.scanpay.config;
+package at.michaelaltenburger.rabbitmq.config;
 
 import org.springframework.amqp.core.Binding;
 import org.springframework.amqp.core.BindingBuilder;
